@@ -4787,12 +4787,16 @@ hero slider s2
 .wpo-project-single-section .wpo-project-single-wrap .wpo-solutions-section h3 {
   font-size: 26px;
   font-family: "Futura PT Demi";
-  margin-bottom: 30px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  color: #232f4b;
+
 }
 
 @media (max-width: 575px) {
   .wpo-project-single-section .wpo-project-single-wrap .wpo-solutions-section h3 {
     font-size: 20px;
+    color: #232f4b;
   }
 }
 
@@ -6154,7 +6158,7 @@ hero slider s2
   }
 }
 
-.wpo-contact-pg-section .wpo-contact-title h2 {
+.wpo-contact-pg-section .wpo-contact-title h3 {
   font-size: 35px;
   font-size: 2.3333333333rem;
   font-weight: 600;
@@ -6162,7 +6166,7 @@ hero slider s2
 }
 
 @media (max-width: 575px) {
-  .wpo-contact-pg-section .wpo-contact-title h2 {
+  .wpo-contact-pg-section .wpo-contact-title h3 {
     font-size: 25px;
     font-size: 1.6666666667rem;
   }
